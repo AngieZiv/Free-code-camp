@@ -1,0 +1,58 @@
+** start of undefined **
+
+<style>
+body {background-color: pink; 
+
+} 
+
+#image {display: block; max-width: 100%; height: auto;}
+
+
+
+</style>
+<main id="main">
+<h1 id="title">
+  Kar-Wai Wong ‖ philosopher of loneliness
+  </h1>
+  <div id="img-div">
+  <a id="tribute-link" target="_blank" href="https://www.youtube.com/watch?v=1QYYf_7u8H4&t=146s" >
+  </a>
+  
+  <img id="image" src="https://i2.wp.com/filmloverss.com/wp-content/uploads/2016/06/wong-kar-wai-2-FilmLoverss.jpg?fit=720%2C480&ssl=1" alt="Picture of Kar-Wai Wong" >
+  <figcaption id="img-caption"> <b>We love what we can't have and we can't have what we love </b> </figcaption>
+  
+    </div>
+<p id="tribute-info">
+<b> Kar-Wai Wong's trademarks: <b>
+<ul>
+<li> Abstract, abrupt and ambiguous endings with the characters left with ambivalent feelings at the end, leaving the outcome "post-ending" to the viewer's choice and interpretation </li>
+<li> Uses a lot of symbolism or visually metaphorical situations to depict the moods of his characters in various situations while they are doing apparently mundane things on-screen </li>
+<li> Multiple narrators are frequently shown in his films with mostly the thoughts of the respective character being expressed via his/her narration </li>
+<li>Quick freeze-frames to emphasize the specific important moments in the middle of some scenes </li>
+<li> Frequent usage of time-lapse photography </li>
+<li> Opening and closing credits against a red or blue backdrop </li>
+<li>Usage of flip clocks to show the time in particular scenes </li>
+  <li> Dull-lit &/or color-filtered-lit rooms </li>
+<li> In his films, characters are shown having a conversation mostly off-screen or with their faces reflected in mirrors (often out of focus) or other reflective surfaces, with only their voices being heard by the viewer </li>
+<li>His films are either period pieces set in the 1960s or his modern era films feature songs from the '60s in background </li>
+<li> Often casts Tony Leung Chiu Wai and Maggie Cheung in his films </li>
+
+
+
+
+
+
+</ul>
+</p>
+  </main>
+
+** end of undefined **
+
+** start of undefined **
+
+#img-caption {width: 400px;}
+
+
+
+** end of undefined **
+
